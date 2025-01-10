@@ -1,0 +1,20 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/My First Project with Java/*
+!/My First Project with Java/task/
+/My First Project with Java/task/*
+!/My First Project with Java/task/src
+
+# Project exclude paths
+/Topics/Fields and methods in enum/Danger levels/out/
+/Topics/Fields and methods in enum/Danger levels/out/production/classes/
